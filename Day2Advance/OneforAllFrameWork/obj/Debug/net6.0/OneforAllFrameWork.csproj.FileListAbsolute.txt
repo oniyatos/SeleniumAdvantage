@@ -1,0 +1,5 @@
+C:\Users\vnlon\source\repos2\OneforAllFrameWork\obj\Debug\net6.0\OneforAllFrameWork.csproj.AssemblyReference.cache
+C:\Users\vnlon\source\repos2\OneforAllFrameWork\obj\Debug\net6.0\OneforAllFrameWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnlon\source\repos2\OneforAllFrameWork\obj\Debug\net6.0\OneforAllFrameWork.AssemblyInfoInputs.cache
+C:\Users\vnlon\source\repos2\OneforAllFrameWork\obj\Debug\net6.0\OneforAllFrameWork.AssemblyInfo.cs
+C:\Users\vnlon\source\repos2\OneforAllFrameWork\obj\Debug\net6.0\OneforAllFrameWork.csproj.CoreCompileInputs.cache
